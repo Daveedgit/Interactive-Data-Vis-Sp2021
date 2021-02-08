@@ -14,3 +14,5 @@ function x(number){
 
 
 console.log("Today, New York City registrated" + " " +convert(temperature) + "° Celsius,"  + " " + x(temperature) + "°"+ "colder than yesterday");
+
+console.log('Ciao mondo')
