@@ -5,7 +5,7 @@ To assist with development, we can serve our files locally to view them as we co
 
 ## Option 1: VS Code Server
 
-Our first integrated option within our editor is a code extension called [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). This option allows you to launch a server directly in VS Code.
+Our first integrated option within our editor is a code extension called [](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). This option allows you to launch a server directly in VS Code.
 
 To install the Live Server extention, open VS Code and navigate to the extensions search tool, either with the tab icon (<img src='../lib/assets/extensions.png' width='12px'>) or with `command` + `shift` + `p`, search "extensions", and select "Extensions: Install Extensions".
 
