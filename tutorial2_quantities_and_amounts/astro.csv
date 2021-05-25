@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name,days
 Scott Kelly,340
 Christina Koch,328
@@ -7,3 +8,14 @@ Michael Lopez Alegria,215
 Jessica Meir,205
 Anne McClain,204
 Nick Hague,203
+=======
+name,days
+Scott Kelly,340
+Christina Koch,328
+Peggy Whitson,289
+Andrew Morgan,272
+Michael Lopez Alegria,215
+Jessica Meir,205
+Anne McClain,204
+Nick Hague,203
+>>>>>>> 547e7de97e8b4d9829a5e856270bb2ebee9f72d0

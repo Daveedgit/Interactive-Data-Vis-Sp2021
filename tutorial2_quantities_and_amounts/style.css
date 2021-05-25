@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #fbf0f0;
     font-family:'Times New Roman', Times, serif 
@@ -33,4 +34,8 @@ svg{
     Background-color: #f5dcdc
     
 
+=======
+svg{
+    border:orange 5px solid;
+>>>>>>> 547e7de97e8b4d9829a5e856270bb2ebee9f72d0
 }
