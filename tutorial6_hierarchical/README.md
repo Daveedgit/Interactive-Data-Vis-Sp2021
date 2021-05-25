@@ -20,7 +20,7 @@ As you're building, don't forget you can always reference the [class code branch
 - [ ] Turn this treemap into a [circle pack](https://github.com/d3/d3-hierarchy#pack) layout instead of the treemap (this will take using a different layout function, and mapping different graphical elements to data).
 
 - [ ] Add mouseover behavior to each point, so its data updates state, and is displayed in our tooltip display. Move the tooltip to it's new position.
-
+  
 - [ ] Make intentional design decisions -- colors, sizes, axes, transitions, etc. should illustrate something interesting about or relevant to your data.
 
 - [ ] Post your code and deployed links to the Tutorial 5 post on the Commons.

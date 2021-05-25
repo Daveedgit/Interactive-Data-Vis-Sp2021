@@ -1,0 +1,62 @@
+.hover-content{
+    top: 0;
+    left: 0;
+    max-width: 200px;
+    background-color: #d7c3c3;
+    padding: .10em;
+    opacity: .95;
+    /* need to remove pointer events so that
+    the tooltip doesn't interrupt the mouse events */
+    pointer-events: none;
+    border-radius: 5px;
+    
+  }
+  
+
+  .hover-content.visible{
+    opacity: .80;
+    font-size: 7px;
+  }
+  
+  body {
+    background-color: #a37373;
+    font-size: 7px;
+    font-weight: normal;
+    font-family: "Montserrat", "Helvetica", sans-serif; 
+    color: white;
+}
+ 
+  
+  h1 {
+      color: white;
+      text-align: Center;
+      font-size: 20px;
+      font-weight: bold; 
+      font-family: "Georgia", serif;
+      letter-spacing: 4px; 
+  }
+
+  h2 {
+    color: white;
+    text-align: Center;
+    font-weight: normal; 
+    font-size: 15px;
+    letter-spacing: 3px;
+    font-family: "Georgia", serif; 
+}
+  div {
+  
+      padding: 10px;
+      text-align: Center;
+  }
+  
+  text {
+    fill : black;
+  }
+  
+  p{
+      text-align: center;
+  }
+  svg{
+      font-family: monteserrat;
+  }

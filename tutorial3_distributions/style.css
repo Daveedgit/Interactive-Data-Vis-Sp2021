@@ -1,0 +1,36 @@
+body {
+  background-color: #ffeac5;
+  font-family:'Times New Roman', Times, serif 
+  
+/*Helvetica neue, helvetica, Arial, Helvetica, sans-serif;*/
+
+}
+
+label {
+    text-align: left;
+}
+
+svg{
+    border:#ffc762 5px solid;
+    Background-color:#ffeac5;
+
+}
+
+
+
+.domain {
+    display: none;
+  }
+  .tick line {
+    stroke: #C0C0BB;
+  }
+  .tick text, .legendCells text {
+    fill: #8E8883;
+    font-size: 6pt;
+    font-family: sans-serif;
+  }
+  .axis-label, .legend-label {
+    fill: #635F5D;
+    font-size: 20pt;
+    font-family: sans-serif;
+  }
