@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 body {
     background-color: #fbf0f0;
     font-family:'Times New Roman', Times, serif 
-    
-/*Helvetica neue, helvetica, Arial, Helvetica, sans-serif;*/
-
 }
 
 h1 {
@@ -13,29 +9,16 @@ h1 {
 }
 
 h4 {
-
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
-svg{
-    border: #e4a1a1 5px solid;
-}
-
 div {
-
     font-family: 'Times New Roman', Times, serif;
-    font-size: small;
-    
-
+    font-size: small;   
 }
 
 svg{
-    Background-color: #f5dcdc
-    
-
-=======
-svg{
-    border:orange 5px solid;
->>>>>>> 547e7de97e8b4d9829a5e856270bb2ebee9f72d0
+    Background-color: #f5dcdc;
+    border: 5px solid orange;
 }
